@@ -8,8 +8,6 @@
 
 This dataset is designed for predicting food delivery times based on various influencing factors such as distance, weather, traffic conditions, and time of day. It offers a practical and engaging challenge for machine learning practitioners, especially those interested in logistics and operations research.
 
----
-
 ### 🔍 Key Features:
 | Feature | Description |
 |--------|-------------|
