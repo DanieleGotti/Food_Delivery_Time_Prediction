@@ -1,5 +1,5 @@
 # 🛵 Food Delivery Time Prediction  
-### *Statistical Learning Project — 2025*
+### *Statistical Learning Project - 2025*
 
 ---
 
@@ -21,7 +21,7 @@ This dataset is designed for predicting food delivery times based on various inf
 | `Vehicle_Type` | Type of delivery vehicle: *Bike, Scooter, Car* |
 | `Preparation_Time_min` | Time required to prepare the food (in minutes) |
 | `Courier_Experience_yrs` | Experience of the delivery courier (in years) |
-| `Delivery_Time_min` | *Target variable* — Total delivery time (in minutes) |
+| `Delivery_Time_min` | _Target variable_ - Total delivery time (in minutes) |
 
 ---
 
