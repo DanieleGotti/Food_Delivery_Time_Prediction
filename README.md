@@ -1,17 +1,17 @@
 # 🛵 Food Delivery Time Prediction  
 ### *Statistical Learning Project — 2025*
 
----
-
-## 📊 Overview  
-Predicting food delivery times is crucial for enhancing customer satisfaction and optimizing logistics. This project explores a real-world dataset to build a predictive model using machine learning techniques. We aim to estimate delivery times based on key contextual features.
 
 ---
+
 
 ## 📁 Dataset  
 🔗 [**Kaggle: Food Delivery Time Prediction Dataset**](https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction/data)
 
-This dataset provides rich information on food delivery scenarios, with features that reflect the complexity of real-world logistics such as weather, traffic, vehicle types, and courier experience.
+This dataset is designed for predicting food delivery times based on various influencing factors such as distance, weather, traffic conditions, and time of day. It offers a practical and engaging challenge for machine learning practitioners, especially those interested in logistics and operations research.
+
+---
+
 
 ### 🔍 Key Features:
 | Feature | Description |
@@ -26,7 +26,9 @@ This dataset provides rich information on food delivery scenarios, with features
 | `Courier_Experience_yrs` | Experience of the delivery courier (in years) |
 | `Delivery_Time_min` | *Target variable* — Total delivery time (in minutes) |
 
+
 ---
+
 
 ## 🚀 Goals  
 - Explore data and perform feature analysis  
@@ -34,7 +36,9 @@ This dataset provides rich information on food delivery scenarios, with features
 - Evaluate model performance and interpret feature importance  
 - Suggest potential improvements for real-world delivery optimization
 
+
 ---
+
 
 ## 👨‍💻 Team Members  
 | Name | Matricola | GitHub |
