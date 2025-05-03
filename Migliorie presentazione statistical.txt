@@ -2,11 +2,13 @@ Migliorie presentazione statistical
 -Dare contesto del problema PRIMA di presentare il dataset
 -Ampliare descrizione obiettivi -> obiettivi di alto livello
 -Meno testo sulle slide
--Nomi variabili non uguali a dataset-> nome con spazi [unità misura]
--Utilizzare colori in tabelle -> grassetto/evidenziato var importanti + colori per coefficienti positivi/negativi
--Cifre decimali, limitarle tutte alla stessa quantità (possibilmente poche)
--NON togliere il secondo giro di outliers dal modello lineare
--Ingrandire il font delle immagini/ingrandire le immagini nelle slide
 -Commentare le prestazioni dei modelli lineari vs ad albero in virtù del fatto che il dataset è generato
--Utilizzare metodo box cox di trasformazione (dopo log e sqrt)
--Mettere istogrammi su distribuzioni variabili all'inizio invece di boxplot, un po' inutili
+
+-FATTO: Nomi variabili non uguali a dataset-> nome con spazi [unità misura]
+-FATTO: Utilizzare colori in tabelle -> grassetto/evidenziato var importanti + colori per coefficienti positivi/negativi
+-FATTO: Cifre decimali, limitarle tutte alla stessa quantità (possibilmente poche)
+-FATTO: NON togliere il secondo giro di outliers dal modello lineare
+-FATTO: Ingrandire il font delle immagini/ingrandire le immagini nelle slide
+-FATTO: Utilizzare metodo box cox di trasformazione (dopo log e sqrt)
+-FATTO: Mettere istogrammi su distribuzioni variabili all'inizio invece di boxplot, un po' inutili
+-FATTO: Convertire Courier Experience in categorica
