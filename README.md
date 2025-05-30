@@ -1,7 +1,6 @@
 # 🛵 Food Delivery Time Prediction  
 ### *Statistical Learning Project - 2025*
 
----
 
 ## 📁 Dataset  
 🔗 [**Kaggle: Food Delivery Time Prediction Dataset**](https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction/data)
@@ -21,7 +20,6 @@ This dataset is designed for predicting food delivery times based on various inf
 | `Courier_Experience_yrs` | Experience of the delivery courier (in years) |
 | `Delivery_Time_min` | _Target variable_ - Total delivery time (in minutes) |
 
----
 
 ## 🚀 Goals  
 - Explore data and perform feature analysis  
@@ -29,7 +27,6 @@ This dataset is designed for predicting food delivery times based on various inf
 - Evaluate model performance and interpret feature importance  
 - Suggest potential improvements for real-world delivery optimization
 
----
 
 ## 👨‍💻 Team Members  
 | Name | Matricola | GitHub |
