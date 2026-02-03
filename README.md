@@ -29,7 +29,7 @@ This dataset is designed for predicting food delivery times based on various inf
 
 
 ## 👨‍💻 Team Members  
-| Name | Matricola | GitHub |
+| Name | StudentID | GitHub |
 |------|-----------|--------|
 | Daniele Gotti | 1079011 | [@DanieleGotti](https://github.com/DanieleGotti) |
 | Gabriele Mazzoleni | 1079514 | [@Gabriele-Mazzoleni](https://github.com/Gabriele-Mazzoleni) |
